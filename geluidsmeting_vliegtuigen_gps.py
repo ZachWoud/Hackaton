@@ -182,7 +182,7 @@ for i, (name, lat, lon) in enumerate(sensors):
         folium.Marker(
             location=[lat, lon],
             icon=folium.CustomIcon(
-                icon_image='/Users/zacharywoud/Desktop/Leerjaar 3 Bedrijfskunde- DataScience Minor/Hackaton/sound-sensor2.png', 
+                icon_image='sound-sensor2.png', 
                 icon_size=(50, 50)
             ),
             popup=f"Sensor: {name}"

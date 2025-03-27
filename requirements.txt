@@ -3,4 +3,4 @@ pandas
 folium
 datetime
 pytz
-streamlit_foliu
+streamlit_folium

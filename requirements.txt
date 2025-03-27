@@ -1,7 +1,6 @@
 streamlit
 pandas
 folium
-math
 datetime
 pytz
 streamlit_folium
